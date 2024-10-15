@@ -7,8 +7,9 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
+<!--
 - 💬 Ask me about **Web dev, C++**
-
+-->
 - 📫 How to reach me **abhimanue80@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
